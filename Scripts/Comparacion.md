@@ -1,14 +1,14 @@
 *Comparación*
 
 **Tiempo de Ejecución**
-Python: 7.09 segundos
-Java: 9.14 segundos
-C#: 7.54 segundos
+-Python: 7.09 segundos
+-Java: 9.14 segundos
+-C#: 7.54 segundos
 
 **Número de líneas**
-Python: 16
-Java: 32
-C#: 26 
+-Python: 16
+-Java: 32
+-C#: 26 
 
 **Complejidad**
 Python: Fácil de encontrar información sobre el lenguaje, lenguaje fácil de aprender y al mismo tiempo tiene una sintaxis fácil de entender.
