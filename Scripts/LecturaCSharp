@@ -2,6 +2,8 @@ using System.IO;
 using LumenWorks.Framework.IO.Csv;
 void ReadCsv()
 {
+    var tiempo = System.Diagnostics.Stopwatch.StartNew();
+
     // open the file "data.csv" which is a CSV file with headers
     using (CsvReader csv =
            new CsvReader(new StreamReader("SalesRecords.csv"), true))
@@ -17,4 +19,9 @@ void ReadCsv()
             Console.WriteLine();
         }
     }
+    tiempo.Stop();
+    var elapsedMs = watch.ElapsedMilliseconds;
+
+    Console.WriteLine(elapsedMs);
+    tiempo = System.Diagnostics.Stopwatch.StartNew();
 }
