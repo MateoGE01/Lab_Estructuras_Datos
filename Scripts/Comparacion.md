@@ -1,6 +1,7 @@
 *Comparación*
 
 **Tiempo de Ejecución**
+
 1)Python: 7.09 segundos
 
 2)Java: 9.14 segundos
@@ -8,6 +9,7 @@
 3)C#: 7.54 segundos
 
 **Número de líneas**
+
 1)Python: 16
 
 2)Java: 32
