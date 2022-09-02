@@ -1,4 +1,4 @@
-                                                                                 *Comparación*
+**COMPARACIÓN**                             
 
 **Tiempo de Ejecución**
 
